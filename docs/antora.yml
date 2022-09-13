@@ -1,0 +1,7 @@
+---
+name: docker-images-tf-graph-beautifier
+title: Docker Image tf-graph-beautifier
+version: main
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
