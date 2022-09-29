@@ -1,14 +1,5 @@
 = Docker Image: tf-graph-beautifier
-include::ROOT:partial$intro-vars.adoc[]
+Sebastian Sommerfeld <sebastian@sommerfeld.io>
+include::ROOT:partial$vars.adoc[]
 
-include::ROOT:partial$intro.adoc[]
-
-include::ROOT:partial$building-blocks.adoc[]
-
-include::ROOT:partial$requirements-quality-goals.adoc[]
-
-include::ROOT:partial$install-usage.adoc[]
-
-include::ROOT:partial$risks-technical-debts.adoc[]
-
-include::ROOT:partial$contact.adoc[]
+include::ROOT:partial$README.adoc[]
