@@ -29,8 +29,8 @@ image:{github-actions-url}/{job-release}/{badge}[Github Badge, link={github-acti
 * Docker image tag scheme -> link:https://www.sommerfeld.io/docs/projects/infrastructure-docs/main/GUIDELINES/index.html#_version_tags[Guidelines and Conventions] on docs.cloud.sommerfeld.io
 * Where to file issues -> {url-project}/issues
 
-== What is `{image-name}`?
-The `{image-name}` image ships with the link:https://github.com/pcasteran/terraform-graph-beautifier[terraform-graph-beautifier] written in go. The terraform-graph-beautifier prettifies graphs generated from `terraform graph`.
+== Anout this image
+The _{image-name}_ image ships with the link:https://github.com/pcasteran/terraform-graph-beautifier[terraform-graph-beautifier] written in go. The terraform-graph-beautifier prettifies graphs generated from `terraform graph`.
 
 To see which packages are shipped with this image, take a look at the link:https://github.com/sebastian-sommerfeld-io/{project-name}/blob/main/src/main/Dockerfile[Dockerfile].
 
